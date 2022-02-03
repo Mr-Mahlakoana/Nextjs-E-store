@@ -5,6 +5,6 @@ it has dmin panel and end user interface build with react and metarial-ui
 
 ## Demo link
 
-👉 Demo : 
+👉 Demo : https://nextjs-e-store.vercel.app/
 
-[![IMAGE ALT TEXT HERE](Estore.png)
+[IMAGE ALT TEXT HERE](Estore.png)
